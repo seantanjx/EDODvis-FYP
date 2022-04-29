@@ -37,8 +37,6 @@ This project aims to value-add to SINEW's existing research on early detection o
 
 All of which can be accessed remotely through a mobile responsive web application.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ### Built With
 
 - [Django REST Framework](https://www.django-rest-framework.org/)
@@ -46,8 +44,6 @@ All of which can be accessed remotely through a mobile responsive web applicatio
 - [React.js](https://reactjs.org/)
 - [Chart.js](https://www.chartjs.org/)
 - [Material UI](https://mui.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Usage
 
@@ -57,8 +53,6 @@ All of which can be accessed remotely through a mobile responsive web applicatio
 - [Participants API](https://edodvis.stoplight.io/docs/edodvis/YXBpOjQ3NjI4ODk1-participants)
 - [Sensorreadings API](https://edodvis.stoplight.io/docs/edodvis/YXBpOjQ3NjI4ODk2-sensorreading)
 - [User API](https://edodvis.stoplight.io/docs/edodvis/YXBpOjQ3NjI4ODk3-user)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <div id="acknowledgments">
 
@@ -71,8 +65,6 @@ The team would like to express our greatest appreciation to several individuals 
 - Project Reviewer: [Professor Chris Poskitt](https://faculty.smu.edu.sg/profile/chris-poskitt-331)
 - Project Supervisor: [Professor Thivya Kandappu](https://faculty.smu.edu.sg/profile/thivya-kandappu-541)
 </div>
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <div id="team">
 
