@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <img width=150px src="https://i.imgur.com/DuI6kTy.jpg" title="EDODVis logo" />
-  <h3 align="center">EDODVis (Early Detection Of Dementia Visualised</h3>
+  <h3 align="center">EDODVis (Early Detection Of Dementia Visualised)</h3>
   <p align="center">
     <a href="https://edodvis.stoplight.io/docs/edodvis/YXBpOjQ0MTc4Nzc4-devices"><strong>Explore the docs »</strong></a>
   </p>
