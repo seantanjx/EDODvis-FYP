@@ -1,0 +1,35 @@
+#updateContainer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+#rowSelectedCount {
+    color: #31394D;
+    padding-right: 15px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.pagination > .css-1gp7sla-MuiPagination-root {
+    padding-bottom: 0px;
+    position: relative;
+}
+
+.dataGridFooter {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.css-1yy0dv2 {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+    min-height: 52px;
+    border-top: 1px solid rgb(224, 224, 224);
+    align-content: flex-start;
+    flex-wrap: wrap;
+    padding-top: 10px;
+}

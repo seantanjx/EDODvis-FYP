@@ -1,0 +1,48 @@
+.overviewCardTitle {
+    display: flex;
+    align-items: top;
+    justify-content: space-between;
+    padding: 0px 20px;
+}
+
+.cardtitle{
+    border-radius: 2;
+    box-shadow: 3;
+    padding-top: 10px;
+}
+
+.chart-card {
+    padding: 10px 0px 0px 0px;
+}
+
+.overviewGraphTitle {
+    color: #31394D;
+    font-weight: bold;
+    min-height: 58px;
+}
+
+.overviewCardContent {
+    margin-bottom: 0px;
+    padding: 0px 10px;
+}
+
+.expandedGraphTitle {
+    color: #31394D;
+    font-weight: bold;
+    display: flex;
+}
+
+.expandedTitleContainer {
+    display: flex;
+    align-items: top;
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+
+.expandedGraphContainer {
+    margin: 0px 15px 10px 15px;
+}
+
+.backButton:Hover{
+    cursor: pointer;
+}

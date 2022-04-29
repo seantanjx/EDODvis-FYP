@@ -1,0 +1,12 @@
+#modal{
+    position: absolute; 
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #FFFFFF;
+    border-radius: 2px;
+    border-color: #31394D;
+    min-width: 40%;
+    min-height: 35%;
+    padding: 16px;
+}

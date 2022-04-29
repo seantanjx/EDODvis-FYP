@@ -1,0 +1,90 @@
+#filterSearch{
+    display: flex;
+    /* justify-content: space-between; */
+    margin-bottom: 1%;
+}
+
+#alertHeader {
+    background-color:#ED5B5B;
+    color: #FFFFFF;
+    position: relative;
+}
+
+#alertTable > div > div > div > span {
+    font-weight: bold; 
+    letter-spacing: 0.15em;
+    font-size: 30px;
+    padding-left: 10px;
+}
+
+#alertTable {
+    box-shadow: 0px 0px 0px 0px rgb(0 0 0 / 20%), 0px 0px 0px 0px rgb(0 0 0 / 10%), 0px 0px 0px 0px rgb(0 0 0 / 12%);
+}
+
+#alertLowBatteryHeader {
+    background-color:#F5E2E4;
+    color: #52575C;
+    position: relative;
+}
+
+#alertNoMotionHeader {
+    background-color: #690000;
+    color: #FFFFFF;
+    position: relative;
+}
+
+#alertLostSignalHeader {
+    background-color: #DADADA;
+    color: #52575C;
+    position: relative;
+}
+
+
+.cardContainer {
+    width: 100%;
+    min-height: 100px;
+    text-align: center;
+    align-items: center;
+}
+
+.sensorCardHeader {
+    font-weight: bold; 
+    letter-spacing: 1px;
+    font-size: 20px;
+    color: #31394D;
+    display: flex;
+    justify-content: flex-start;
+    padding: 20px 30px 0px 30px;
+}
+
+.instructions {
+    font-style: italic;
+    color: #748AA1;
+}
+
+#housesDeployedCount {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#viewAllAlert {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px 10px 0px 0px;
+}
+
+#houseNoMotion > span.MuiCardContent-root.summaryContent.css-1qw96cp > p.MuiTypography-root.MuiTypography-body1.sensorValueInline.css-9l3uo3 {
+    color:#FFFFFF;
+}
+
+#houseNoMotion > span.MuiCardContent-root.summaryContent.css-1qw96cp > p.MuiTypography-root.MuiTypography-body1.sensorDesc.css-9l3uo3 {
+    color:#FFFFFF;
+}
+
+
+/* Remove cell shadow in alert table */
+.css-1w32mvn {
+    box-shadow: rgb(0 0 0 / 0%) 0px 0px 0px 0px, rgb(0 0 0 / 0%) 0px 0px 0px 0px, rgb(0 0 0 / 0%) 0px 0px 0px 0px;
+}
+

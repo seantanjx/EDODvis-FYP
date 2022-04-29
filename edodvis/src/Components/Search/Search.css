@@ -1,0 +1,10 @@
+.searchDesktop {
+    width: 300px;
+    background-color: #CED7E0;
+  }
+
+.searchMobile {
+  width: 250px;
+  background-color: #CED7E0;
+  margin-left: 25px;
+}

@@ -1,0 +1,161 @@
+.pidNoMotionDesktop {
+    color: #ED5B5B;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px 0px 0px 40px; 
+    background: transparent;
+}
+
+.pidNoMotionMobile {
+    color: #ED5B5B;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px 0px 0px 20px; 
+    background: transparent;
+}
+
+.pidDesktop {
+    color: #31394D;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px 0px 0px 40px; 
+    background: transparent;
+}
+
+.pidMobile {
+    color: #31394D;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 15px 0px 0px 20px; 
+    background: transparent;
+}
+
+.typeDesktop {
+    color: #52575C;
+    padding: 5px 0px 15px 40px;
+    display: flex;
+    align-items: center;
+    background: transparent;
+}
+
+.typeMobile {
+    color: #52575C;
+    display: flex;
+    align-items: center;
+    padding: 0px 0px 5px 20px;
+    background: transparent;
+}
+
+.daysDownDesktop {
+    color: #52575C;
+    padding: 19px 0px 2px 40px; 
+    display: flex;
+    align-items: center;
+    background: transparent;
+}
+
+.daysDownMobile {
+    color: #52575C;
+    display: flex;
+    align-items: center;
+    padding: 0px 0px 0px 20px; 
+    background: transparent;
+}
+
+.remarkDesktop {
+    color: #52575C;
+    padding: 5px 0px 10px 40px;
+    display: flex;
+    align-items: center;
+    background: transparent;
+}
+
+.remarkMobile {
+    color: #52575C;
+    display: flex;
+    align-items: center;
+    padding: 0px 0px 0px 20px; 
+    background: transparent;
+}
+
+.viewDetailsDesktop {
+    padding: 5px 0px 15px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: transparent;
+}
+
+.viewDetailsMobile {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding: 10px 20px 20px 0px;
+    background: transparent;
+}
+
+.emptyCellTop {
+    border: 0px;
+    padding: 26px 0px 0px 0px;
+    background: transparent;
+}
+
+
+.css-1kvzoth-MuiPaper-root {
+    box-shadow: none;
+} 
+
+.css-1oqqzyl-MuiContainer-root {
+    max-width: none;
+}
+
+#alertTable {
+    margin: 0px 0px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 100%;
+    box-shadow: 0px 3px 15px -1px rgb(0 0 0 / 20%), 0px 1px 1px 0px rgb(0 0 0 / 10%), 0px 1px 3px 0px rgb(0 0 0 / 12%);
+}
+
+#postalCodePagination{
+    padding: 20px 2%;
+    margin-bottom: 0px;
+}
+
+.rowRed {
+    border-bottom: 1px solid #E5E5E5 ;
+    background-color: #F5E2E4 ;
+    padding: 0px;
+}
+
+.rowWhite {
+    border-bottom: 1px solid #E5E5E5 ;
+    padding: 0px;
+}
+
+.viewLink {
+    color: #748AA1;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    font-style: italic;
+    text-transform: inherit;
+    font-size: 16px;
+    padding: 0px;
+}
+
+.viewLink:hover {
+    color: #A7D7C7;
+    text-decoration: underline;
+    text-decoration-color:  #A7D7C7;
+    cursor: pointer;
+  }
+
+.MuiLink-root {
+    text-underline-offset: 3px;
+}
+
+.alertTableContainer {
+    padding: 0px;
+}
+
+

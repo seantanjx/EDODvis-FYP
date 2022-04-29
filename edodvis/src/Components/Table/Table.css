@@ -1,0 +1,99 @@
+.MuiLink-root {
+    color: #748AA1;
+    font-style: italic;
+}
+
+.MuiLink-root:hover {
+    color: #A7D7C7;
+    text-decoration-color:  #A7D7C7;
+    cursor: pointer;
+}
+
+/* .MuiDataGrid-iconSeparator {
+    color: #ffff;
+} */
+
+
+.MuiDataGrid-columnHeaderTitle {
+    font-weight: bold;
+    color: #31394D;
+    font-size: 16px;
+    padding-top: 8px;
+}
+
+.MuiDataGrid-cell {
+    color: #52575C;
+    font-size: 16px;
+}
+
+.MuiButtonBase-root.Mui-selected {
+    background: #748AA1;
+    color: #FFFFFF;
+}
+
+
+.MuiButtonBase-root.Mui-selected:hover {
+    background: #748AA1;
+    color: #FFFFFF;
+}
+
+.MuiSvgIcon-root.MuiDataGrid-iconSeparator {
+    color: #FFFFFF;
+}
+
+.MuiDataGrid-overlay {
+    background: #FFFFFF;
+}
+
+.exportButton {
+    color: #748AA1;
+}
+
+.dataTable {
+    height: 530px;
+    width: 100%;
+    padding: 2px;
+}
+
+.css-17jjc08-MuiDataGrid-footerContainer {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    min-height: 65px;
+    border-top: 1px solid rgba(224, 224, 224, 1);
+}
+    
+.css-1gp7sla-MuiPagination-root {
+position: absolute;
+left: 0px;
+padding-left: 16px;
+}
+
+
+#main > div > div > div:nth-child(2) > div.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation3.css-om4exc > div > div:nth-child(3) > div > div.MuiGrid-root.MuiGrid-container.dataGridFooter.css-1d3bbye > div > nav {
+    left: 0px;
+    padding-left: 16px;
+    padding-bottom: 8px;
+    position: relative;
+}
+
+/* Table cells */
+.css-mmi65 .MuiDataGrid-cell--textLeft {
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    padding-left: 15px;
+}
+
+.css-1du7izv .MuiDataGrid-cell--textLeft {
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    padding-left: 15px;
+}

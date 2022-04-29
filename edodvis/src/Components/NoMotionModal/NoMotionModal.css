@@ -1,0 +1,36 @@
+#noMotionModal{
+    position: absolute; 
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #f1e2e0;
+    border-radius: 5px;
+    border: solid #ED5B5B 5px;
+    min-width: 50%;
+    min-height: 40%;
+    padding: 16px;
+}
+
+#modalTitle{
+    font-size: 1.5em;
+    font-weight: bold;
+    color:#ED5B5B;
+}
+
+#NavigateButton{
+    background-color: #748AA1;
+    position: absolute;
+    bottom:16px;
+    right: 16px;
+    width: 100;
+    margin-left: 16px;
+}
+
+#CloseButton{
+    position: absolute;
+    right: 0px;
+    width: 100;
+}
+
+
+

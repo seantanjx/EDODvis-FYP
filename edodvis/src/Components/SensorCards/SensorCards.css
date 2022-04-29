@@ -1,0 +1,80 @@
+.sensorCard{
+    margin: 0 8px 16px;
+    border-radius: 10px;
+    border: 0 solid transparent;
+}
+
+.summaryCard {
+    margin: 0 8px 16px;
+    border-radius: 10px;
+    border: 0 solid transparent;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sensorContent.css-46bh2p-MuiCardContent-root {
+    width: 100px;
+    height: 98px;
+    padding: 20px 10px;
+    display: inline-block;
+}
+
+.sensorValue {
+    color: #52575C;
+    font-size: 35px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    line-height: 35px;
+}
+
+.sensorType {
+    color: #52575C;
+    letter-spacing: 1px;
+}
+
+.sensorValueInline {
+    color: #52575C;
+    font-size: 35px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    line-height: 35px;
+    display: inline-block;
+}
+
+.sensorDesc {
+    color: #52575C;
+    letter-spacing: 1px;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.summaryContent.css-46bh2p-MuiCardContent-root {
+    padding: 20px 10px;
+    height: 70px;
+    display: inline-block;
+    color: #FFFFFF;
+}
+
+.sensorCardAction:hover {
+    border: 4px solid #A7D7C7;
+    border-radius: 10px;
+    height: 70px;
+}
+
+.sensorCardAction:focus {
+    border: 4px solid #748AA1;
+    border-radius: 10px;
+    height: 70px;
+}
+
+#houseNoMotion > span.MuiCardContent-root.summaryContent.css-46bh2p-MuiCardContent-root > p.MuiTypography-root.MuiTypography-body1.sensorValueInline.css-ahj2mt-MuiTypography-root {
+    color:#FFFFFF;
+}
+
+#houseNoMotion > span.MuiCardContent-root.summaryContent.css-46bh2p-MuiCardContent-root > p.MuiTypography-root.MuiTypography-body1.sensorDesc.css-ahj2mt-MuiTypography-root {
+    color: #FFFFFF;
+}
+
+

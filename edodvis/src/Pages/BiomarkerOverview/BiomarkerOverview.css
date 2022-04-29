@@ -1,0 +1,21 @@
+.css-m44z85-MuiTypography-root.Mui-selected {
+    color: #fff;
+    background: #748AA1;
+}
+
+.filterButton {
+    background:#748AA1;
+    margin: 20px 16px;
+}
+
+.css-1r6dlii.Mui-selected {
+    color: rgb(255, 255, 255);
+    background: rgb(116, 138, 161);
+}
+
+.downloadIcon {
+    position: absolute; 
+    right: 20px;
+    top: 20px;
+    cursor: pointer;
+}

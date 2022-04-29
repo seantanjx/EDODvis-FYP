@@ -1,0 +1,10 @@
+#CardContent{
+    display: inline;
+    vertical-align: baseline;
+    padding-bottom: 16px;
+}
+
+.Card{
+    width:80px;
+    min-height: 30px;
+}

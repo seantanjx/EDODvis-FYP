@@ -1,0 +1,12 @@
+#SuccessModal{
+    position: absolute; 
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #90bea6;
+    border-radius: 3px;
+    border-color: #268f59;
+    min-width: 60%;
+    min-height: 40%;
+    padding: 16px;
+}

@@ -1,0 +1,27 @@
+#anomalyHeader {
+    color: #31394d;
+    position: relative;
+}
+
+#anomalyHeader > div > span {
+    font-weight: bold; 
+    letter-spacing: 0.15em;
+    font-size: 25px;
+    padding: 16px 16px 0px 0px;
+}
+
+#height {
+    height: 30px;
+}
+
+#anomalyTable {
+    background: transparent;
+    box-shadow: 0px 2px 1px -1px rgb(0 0 0 / 0%), 0px 1px 1px 0px rgb(0 0 0 / 0%), 0px 1px 3px 0px rgb(0 0 0 / 0%);
+    max-width: 60%;
+    padding-left: 0px;
+}
+
+#anomalyRow {
+    border-bottom: 0px;
+}
+

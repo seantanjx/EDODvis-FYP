@@ -1,0 +1,13 @@
+.breadCrumbsOpen {
+    margin: 16px 0px;
+    padding-left: 40px;
+    position:sticky;
+    position: -webkit-sticky;
+}
+
+.breadCrumbsClose {
+    margin: 16px 0px 16px 30px;
+    padding-left: 40px;
+    position:sticky;
+    position: -webkit-sticky;
+}
